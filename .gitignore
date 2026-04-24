@@ -22,3 +22,7 @@ Thumbs.db
 
 tests/docs/
 *.pdf
+
+postgresql/data/
+
+redis/data
